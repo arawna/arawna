@@ -2,6 +2,8 @@
 ### Hi there, I'm Ali. :blush:
 
 ## Full Stack Developer
+## About Me
+- I am studying comupter engineering at Namık Kemal University
 
 <font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
 
@@ -9,6 +11,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][mail]
 
 <br />
 <br />
@@ -37,7 +40,7 @@
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=arawna&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=arawna&theme=gruvbox" >
 
 
 
@@ -48,3 +51,4 @@
 
 [instagram]: https://www.instagram.com/alihocaoglu34/
 [linkedin]: https://www.linkedin.com/in/ali-hocaoglu-304224207/
+[mail]: mailto:alihocaoglu1220@gmail.com
